@@ -1,6 +1,6 @@
 # Memories
 
-Create  and share memories and trips with photos, text, maps and music. Add collaborators and granularly define who can see you memories.
+Create  and share memories and trips with photos, texts, maps and music. Add collaborators and granularly define who can see your memories.
 
 <p>
   <img width="350" src="./screenshots/1.png"  />
