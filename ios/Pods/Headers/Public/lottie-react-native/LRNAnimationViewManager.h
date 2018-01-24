@@ -1,1 +1,0 @@
-../../../../../node_modules/lottie-react-native/lib/ios/LottieReactNative/LRNAnimationViewManager.h
